@@ -1,0 +1,7 @@
+reddit_util
+===========
+
+reddit_util is a bunch of functions that utilize the reddit API and perform 
+some useless operations on the data thus obtained.
+
+reddit_util is a product of boredom. Feel free to reuse. 
